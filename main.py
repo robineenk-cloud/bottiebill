@@ -110,6 +110,6 @@ st.sidebar.subheader("🔧 Configuratie")
 if st.sidebar.button("Toon .env template"):
     st.sidebar.code("""
 # .env bestand
-GEMINI_API_KEY=je_api_key_hier
-MODEL_VERSIE=gemini-pro
+GEMINI_API_KEY=AIzaSyC1tyDoZo-QHJR3xUhLrAwLhKgQJ2P4QtY
+MODEL_VERSIE=Default Gemini API Key
 """)
